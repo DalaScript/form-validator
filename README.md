@@ -84,16 +84,16 @@
 
 ### 🗃️ Useful resources
 
- - [W3Schools - Forms](https://www.w3schools.com/html/html_forms.asp)
- - [Mozilla - Input Element](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/input)
- - [Google Fonts](https://fonts.google.com/)
- - [Mozilla - Valid Psuedo Class](https://developer.mozilla.org/en-US/docs/Web/CSS/:valid)
- - [Mozilla - Form Validation](https://developer.mozilla.org/en-US/docs/Learn_web_development/Extensions/Forms/Form_validation)
- - [Mozilla - Constraint Validation](https://developer.mozilla.org/en-US/docs/Web/HTML/Guides/Constraint_validation)
+ - [Google Fonts](https://fonts.google.com/) - Free Fonts
  - [RegEx Background Info](https://html.com/attributes/input-pattern/)
  - [RegEx Playground Tool (Password Pattern)](https://regexr.com/3bfsi)
- - [Mozilla - Submit Event](https://developer.mozilla.org/en-US/docs/Web/API/HTMLFormElement/submit_event)
+ - [W3Schools - Forms](https://www.w3schools.com/html/html_forms.asp)
  - [W3Schools - Prevent Default](https://www.w3schools.com/jsref/event_preventdefault.asp)
+ - [MDN - Input Element](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/input)
+ - [MDN - Valid Psuedo Class](https://developer.mozilla.org/en-US/docs/Web/CSS/:valid)
+ - [MDN - Form Validation](https://developer.mozilla.org/en-US/docs/Learn_web_development/Extensions/Forms/Form_validation)
+ - [MDN - Constraint Validation](https://developer.mozilla.org/en-US/docs/Web/HTML/Guides/Constraint_validation)
+ - [MDN - Submit Event](https://developer.mozilla.org/en-US/docs/Web/API/HTMLFormElement/submit_event)
  - [CSS Tricks - Different Approaches to Validation Article](https://css-tricks.com/form-validation-part-1-constraint-validation-html/)
 
 ---
