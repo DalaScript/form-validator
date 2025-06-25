@@ -2,7 +2,7 @@
 
 **Project 12/20**
 
-**In Process**
+**📋 Form Validation** is a responsive sign-up form built with custom client-side validation using the Constraint Validation API and JavaScript logic. It ensures that users enter valid information, confirms matching passwords, and provides instant feedback through styled messages and input borders — making form submission secure and user-friendly.
 
 ---
 
@@ -28,7 +28,7 @@
 
 ### 📸 Screenshot
 
-**In Process**
+![Live Preview Screenshot](./assets/screenshot.jpg)
 
 ### 🔗 Links
 
@@ -37,7 +37,13 @@
 
 ### 📌 Features
 
-**In Process**
+ - ✅ Validates full name, phone, email, website URL, and password
+ - ✅ Real-time input validation using built-in HTML attributes and JS
+ - ✅ Password strength requirement using RegEx
+ - ✅ Confirms password match before submission
+ - ✅ Displays clear error/success messages with styled borders
+ - ✅ Uses JavaScript to prevent form submission if data is invalid
+ - ✅ Stores submitted user data in an object for further use
 
 ---
 
@@ -45,11 +51,28 @@
 
 ### 🛠️ Built with
 
-**In Process**
+ - HTML5
+ - CSS3
+ - Vanilla JavaScript
+ - Constraint Validation API
 
 ### 🎓 What I Learned
 
-**In Process**
+ - How to use the Constraint Validation API (`checkValidity`)
+ - Implementing custom validation logic with JavaScript
+ - Writing regex patterns for strong password rules
+ - Creating dynamic success/error UI with border color feedback
+ - Structuring form data and capturing it via JS
+ - Handling form submission and preventing default behavior
+ - Designing user-friendly forms with accessibility in mind
+
+  > 🚀 For me, this project was more about **practice** and gaining additional **experience**,  
+  > rather than learning something entirely new.  
+  >  
+  > 👨‍💻 Since I’m not a beginner and already familiar with these technologies,  
+  > I approached it with confidence — and still, I truly **enjoyed working on it**.  
+  >  
+  > 🎯 Overall, I consider this a very **valuable and enjoyable experience**.
 
 ### 🔙 Previous Project
 
@@ -61,7 +84,17 @@
 
 ### 🗃️ Useful resources
 
-**In Process**
+ - [W3Schools - Forms](https://www.w3schools.com/html/html_forms.asp)
+ - [Mozilla - Input Element](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/input)
+ - [Google Fonts](https://fonts.google.com/)
+ - [Mozilla - Valid Psuedo Class](https://developer.mozilla.org/en-US/docs/Web/CSS/:valid)
+ - [Mozilla - Form Validation](https://developer.mozilla.org/en-US/docs/Learn_web_development/Extensions/Forms/Form_validation)
+ - [Mozilla - Constraint Validation](https://developer.mozilla.org/en-US/docs/Web/HTML/Guides/Constraint_validation)
+ - [RegEx Background Info](https://html.com/attributes/input-pattern/)
+ - [RegEx Playground Tool (Password Pattern)](https://regexr.com/3bfsi)
+ - [Mozilla - Submit Event](https://developer.mozilla.org/en-US/docs/Web/API/HTMLFormElement/submit_event)
+ - [W3Schools - Prevent Default](https://www.w3schools.com/jsref/event_preventdefault.asp)
+ - [CSS Tricks - Different Approaches to Validation Article](https://css-tricks.com/form-validation-part-1-constraint-validation-html/)
 
 ---
 
