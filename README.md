@@ -2,7 +2,7 @@
 
 **Project 12/20**
 
-**📋 Form Validation** is a responsive sign-up form built with custom client-side validation using the Constraint Validation API and JavaScript logic. It ensures that users enter valid information, confirms matching passwords, and provides instant feedback through styled messages and input borders — making form submission secure and user-friendly.
+📋 Form Validation is a responsive sign-up form built with custom client-side validation using the Constraint Validation API and JavaScript logic. It ensures that users enter valid information, confirms matching passwords, and provides instant feedback through styled messages and input borders — making form submission secure and user-friendly.
 
 ---
 
@@ -84,17 +84,17 @@
 
 ### 🗃️ Useful resources
 
- - [Google Fonts](https://fonts.google.com/) - Free Fonts
- - [RegEx Background Info](https://html.com/attributes/input-pattern/)
- - [RegEx Playground Tool (Password Pattern)](https://regexr.com/3bfsi)
- - [W3Schools - Forms](https://www.w3schools.com/html/html_forms.asp)
- - [W3Schools - Prevent Default](https://www.w3schools.com/jsref/event_preventdefault.asp)
- - [MDN - Input Element](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/input)
- - [MDN - Valid Psuedo Class](https://developer.mozilla.org/en-US/docs/Web/CSS/:valid)
- - [MDN - Form Validation](https://developer.mozilla.org/en-US/docs/Learn_web_development/Extensions/Forms/Form_validation)
- - [MDN - Constraint Validation](https://developer.mozilla.org/en-US/docs/Web/HTML/Guides/Constraint_validation)
- - [MDN - Submit Event](https://developer.mozilla.org/en-US/docs/Web/API/HTMLFormElement/submit_event)
- - [CSS Tricks - Different Approaches to Validation Article](https://css-tricks.com/form-validation-part-1-constraint-validation-html/)
+ - [Google Fonts](https://fonts.google.com/) – Stylish and web-safe fonts
+ - [RegEx Background Info](https://html.com/attributes/input-pattern/) – Basics of pattern attribute in HTML
+ - [RegEx Playground Tool (Password Pattern)](https://regexr.com/3bfsi) – Live tester for password regex patterns
+ - [W3Schools - Forms](https://www.w3schools.com/html/html_forms.asp) – HTML form structure and usage
+ - [W3Schools - Prevent Default](https://www.w3schools.com/jsref/event_preventdefault.asp) – Cancel default browser actions
+ - [MDN - Input Element](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/input) – Input field attributes and types
+ - [MDN - Valid Pseudo Class](https://developer.mozilla.org/en-US/docs/Web/CSS/:valid) – Style fields based on validation
+ - [MDN - Form Validation](https://developer.mozilla.org/en-US/docs/Learn_web_development/Extensions/Forms/Form_validation) – How form validation works in the browser
+ - [MDN - Constraint Validation](https://developer.mozilla.org/en-US/docs/Web/HTML/Guides/Constraint_validation) – Using the HTML validation API
+ - [MDN - Submit Event](https://developer.mozilla.org/en-US/docs/Web/API/HTMLFormElement/submit_event) – Handling form submit events
+ - [CSS Tricks - Different Approaches to Validation Article](https://css-tricks.com/form-validation-part-1-constraint-validation-html/) – Overview of validation approaches
 
 ---
 
